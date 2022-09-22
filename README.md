@@ -8,8 +8,12 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
  - 🔭 I'm Masai School Student.
-
+ 
  - 🔭 I’m  A Student, Learner and passionate Java Backend developer 🚀
+ 
+ - 🔭 Check my resume at **https://rxresu.me/loki0925/shreyash-ahuja** .
+ 
+  - 🔭 Check my Portfolio  at **https://loki0925.github.io/** .
 
  - I am passionate about technology and want to learn & explore new technologies
 

@@ -1,5 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I'm Shreyash Ahuja
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loki0925&label=Profile%20views&color=0e75b6&style=flat" alt="loki0925" /> </p>
 <a href="https://www.linkedin.com/in/shreyash-ahuja-80685b1a9">
   <img align="left" alt="Shreyash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>

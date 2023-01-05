@@ -22,32 +22,27 @@
 ## 🙋‍♂️ About Me
 
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+
  
- - 🔭 I'm Masai School Student.
+ -  🔭 Check my resume at **https://rxresu.me/loki0925/shreyash-ahuja** .
  
- - 🔭 I’m  A Student, Learner and passionate Java Backend developer 🚀
- 
- - 🔭 Check my resume at **https://rxresu.me/loki0925/shreyash-ahuja** .
- 
-  - 🔭 Check my Portfolio  at **https://loki0925.github.io/** .
+ -  📊 Check my Portfolio  at **https://loki0925.github.io/** .
 
- - I am passionate about technology and want to learn & explore new technologies
+ -  🚀 I am passionate about technology and want to learn & explore new technologies 
 
- - I’m living  in Surat India 
+ -  🔭 I’m living  in India's Diamond city Surat   
 
-- 🌱 Learning **Java Backend & Full-Stack Web Development**
+ - 🌱 Learning and Exploring **Java Backend & Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/loki0925?tab=repositories](https://github.com/loki0925?tab=repositories)
+ - 👨‍💻 All of my projects are available [Here](https://github.com/loki0925?tab=repositories)
 
-- 💬 Ask me about **Java**
+ - 💬 Ask me about **Java | SpringBoot | Stockmarket**
 
-- 📫 How to reach me **shreyashahuja@gmail.com**
+ - 📫 How to reach me **shreyashahuja@gmail.com**
 
-- ⚡ Fun fact **I watch the funny videos often.**
+ - 🎯 Interests :**coding📕 | stockmarket  | travelling | cooking | chess | gardning | robotics | psychology | philosophy ***
 
-- 🎯 Interests :**coding📕 | stockmarket  | travelling | cooking | chess | gardning | robotics | psychology | philosophy ***
-
-- ⚡ Fact :**Action and Intent is more important than talent 🫀:**
+ - ⚡ Fact :**Action and Intent is more important than talent 🫀:**
  
 ## 🛠️ My Skills
 

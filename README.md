@@ -53,7 +53,7 @@
 
 ###  Programming languages
 
-<p align="center"> 
+<p align="left"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -78,7 +78,7 @@
 </p>
 
 ###  Frontend Development
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -94,7 +94,7 @@
 </p>
 
 ###  Databases & Cloud Hosting
-<p align="center">
+<p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
     <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>

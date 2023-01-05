@@ -1,12 +1,27 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I'm Shreyash Ahuja
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loki0925&label=Profile%20views&color=0e75b6&style=flat" alt="loki0925" /> </p>
-<a href="https://www.linkedin.com/in/shreyash-ahuja-80685b1a9">
-  <img align="left" alt="Shreyash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, </h1>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+
+<p align="center">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" /> <b><i align="center">Thought : "Action and Intent is way more important than talent”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<!-- <p>An aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p>  -->
+  
+ 
+
+<div align="center">
+  
+   <span></span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=+Hey!+It's+Shreyash!;I'm+a+Software+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
+</div>
+
+<hr color="blue"/>
+
+
+
+## 🙋‍♂️ About Me
+
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
  
  - 🔭 I'm Masai School Student.
  
@@ -38,7 +53,7 @@
 
 ###  Programming languages
 
-<p align="left"> 
+<p align="center"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -63,7 +78,7 @@
 </p>
 
 ###  Frontend Development
-<p align="left"> 
+<p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -79,7 +94,7 @@
 </p>
 
 ###  Databases & Cloud Hosting
-<p align="left">
+<p align="center">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
     <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
@@ -87,7 +102,7 @@
  
  ###  Software & Tools
  
-<p>
+<p align="center">
  
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>

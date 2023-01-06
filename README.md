@@ -92,12 +92,13 @@
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+   &emsp;
     <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
  </p>
  
  ###  Software & Tools
  
-<p align="center">
+<p align="left">
  
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>

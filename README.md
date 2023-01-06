@@ -124,7 +124,7 @@
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
 If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/shreyashAhuja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---------
 Credits: [Shreyash](https://github.com/loki0925)

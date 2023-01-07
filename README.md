@@ -121,11 +121,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=loki0925&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=loki0925&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<a href="https://www.buymeacoffee.com/shreyashAhuja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <p align="center">
   <img width="200" height="100" src="https://math.sun.ac.za/prodinger/thanks.gif">
 </p>
-If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-<a href="https://www.buymeacoffee.com/shreyashAhuja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 ---------
 Credits: [Shreyash](https://github.com/loki0925)

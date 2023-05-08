@@ -23,9 +23,7 @@
 
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
- 
- -  🔭 Check my resume at **https://rxresu.me/loki0925/shreyash-ahuja** .
- 
+  
  -  📊 Check my Portfolio  at **https://loki0925.github.io/** .
 
  -  🚀 I am passionate about technology and want to learn & explore new technologies 
@@ -39,6 +37,8 @@
  - 💬 Ask me about **Java | SpringBoot | Stockmarket**
 
  - 📫 How to reach me **shreyashahuja@gmail.com**
+ -
+ -  🔭 Check my resume at **[Shreyash_Ahuja_Resume]([https://github.com/loki0925](https://drive.google.com/file/d/1bbGw39zbXzRgRxRIoc-1KdLWAflfLBxL/view?usp=sharing))** .
 
  - 🎯 Interests :**coding📕 | stockmarket  | travelling | cooking | chess | gardning | robotics | psychology | philosophy ***
 
